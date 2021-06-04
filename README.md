@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zahraadan
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning laravel
+- 👀 I’m interested in software developing
+- 🌱 I’m currently learning laravel, C#
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
